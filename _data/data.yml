@@ -92,7 +92,7 @@ projects:
     assignments:
       - title: Multi-editor
         link: "#"
-        tagline: "Development of a batch product information processing software in python"
+        tagline: "Development of a batch product information processing software"
 
 skills:
     title: Skills &amp; Proficiency
