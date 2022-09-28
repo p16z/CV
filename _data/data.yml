@@ -12,18 +12,18 @@ sidebar:
     avatar: 32718673.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
+    email: p16zane@ionio.gr
+    phone: 697 666 6789
+    timezone: Athens/EEST
+    citizenship: Hellenic
+    website: 
+    linkedin: p16z
+    xing: 
+    github: p16z
+    telegram: # add your nickname without '@' signwebjeda
     gitlab:
-    bitbucket:
-    twitter: '@webjeda'
+    bitbucket: 
+    twitter: '@p16z'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
