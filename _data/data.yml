@@ -65,7 +65,6 @@ sidebar:
         - item: Cooking
           link:
           
-
 career-profile:
     title: About Me
     summary: |
@@ -76,14 +75,7 @@ education:
       - degree: BSc in Computer Science
         university: Ionian University
         time: 2016 - Ongoing
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+        details: 
 experiences:
     title: Experiences
     info:
