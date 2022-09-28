@@ -15,7 +15,7 @@ sidebar:
     email: p16zane@ionio.gr
     phone: 697 666 6789
     timezone: Athens/EEST
-    citizenship: Hellenic
+    citizenship: 
     website: 
     linkedin: p16z
     xing: 
@@ -32,26 +32,39 @@ sidebar:
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Greek 
           level: Native
 
-        - idiom: French
-          level: Professional
+        - idiom: Romanian 
+          level: Native
 
-        - idiom: Spanish
-          level: Professional
+        - idiom: English 
+          level: Proficiency
+
+        - idiom: Franch 
+          level: B1
+
+        - idiom: German 
+          level: A2
 
     interests:
-      title: Interests
+      title: Interests & Hobbies
       info:
-        - item: Climbing
+        - item: Sports - Playing Soccer, Basketball
           link:
 
-        - item: Snowboarding
+        - item: Watching Movies & Series
+          link:
+
+        - item: Gaming
+          link:
+
+        - item: Painting
           link:
 
         - item: Cooking
           link:
+          
 
 career-profile:
     title: About Me
@@ -125,5 +138,6 @@ skills:
 
       - name: Illustrator & Photoshop
         level: 70%
+
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
